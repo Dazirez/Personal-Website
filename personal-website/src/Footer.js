@@ -1,9 +1,9 @@
 import React from "react";
 import styled from "styled-components";
 const Wrapper = styled.section`
-    display: flex; 
+    display: flex;
     margin-top: 1rem;
-    justify-content: space-around; 
+    justify-content: space-around;
 
     padding: 1rem;
     background-color: black;

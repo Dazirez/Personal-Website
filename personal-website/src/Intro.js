@@ -38,12 +38,13 @@ const Propic = styled.img`
 `;
 const Flexbox = styled.div`
     display: flex; 
-    align-itmes: center; 
+    align-items: center; 
 `;
 const Email = styled.a`
     text-decoration: none;
     &:hover { 
         background-color: red;
+        transform: scale(1.06)
     }
 `;
 
