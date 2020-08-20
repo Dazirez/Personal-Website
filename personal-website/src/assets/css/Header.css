@@ -1,0 +1,38 @@
+*,
+::before,
+::after {
+    box-sizing: border-box;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    display: flex;
+    width: 100%;
+    font-size: 1rem;
+    min-height: 60px;
+    background-color: #b8fdff;
+}
+
+.header ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    list-style: none;
+}
+
+.header ul li {
+    margin: 0 1em;
+    padding: 1em;
+}
+
+.header ul li a {
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 599;
+    color: #f4f4f4;
+}

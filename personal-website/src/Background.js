@@ -24,7 +24,7 @@ const Content = styled.div`
 export class Background extends Component {
     render() {
         return (
-            <Back>
+            <Back id="about">
                 <h4 style={{ color: "#007bff" }}> Background </h4>
                 <Content>
                     <Paragraph>
@@ -35,7 +35,8 @@ export class Background extends Component {
                         As a design-oriented software engineer- my passion is
                         for making a great user experience work with novel
                         technology. I have a keen eye for aesthetics, and am
-                        fascinated by art.
+                        fascinated by good design. I'm hardworking and always
+                        excited about crazy ideas.
                     </Paragraph>
                     <Paragraph>
                         I've played for my Collegiate League of Legends team and
