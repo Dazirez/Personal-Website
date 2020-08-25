@@ -62,11 +62,11 @@ export class Intro extends Component {
                             I'm Daniel, a Prospective Software Developer from
                             Michigan. I’m currently studying computer science at
                             the University of Michigan- Ann Arbor. I don't march
-                            to my own rhythm, but I listen and experience life
-                            in it's varying flavors. love making music and
-                            experiencing new things. I play the guitar and
-                            piano, and am seriously curious about anything that
-                            comes my way. If you’d like to make something
+                            to beat of my own drum, but I stop to listen and
+                            experience life in it's varying flavors. love making
+                            music and experiencing new things. I play the guitar
+                            and piano, and am seriously curious about anything
+                            that comes my way. If you’d like to make something
                             happen, feel free to get in touch with me 🙂
                         </Description>
                         <Propic src={require("./assets/img/Propic.png")} />
