@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import styled from "styled-components";
 
 const Back = styled.div`
+    margin: 100px 0px; 
     display: flex;
-    margin-bottom: 400px;
     flex-direction: row;
     justify-content: center;
     font-family: Apercu, "Source Sans Pro", system, system-ui, -apple-system,
@@ -14,7 +14,7 @@ const Paragraph = styled.p`
 `;
 
 const Content = styled.div`
-    margin-left: 100px;
+    padding-left: 100px;
     display: flex;
     max-width: 30%;
     flex-direction: column;
@@ -24,7 +24,7 @@ const Content = styled.div`
 export class Background extends Component {
     render() {
         return (
-            <Back id="about">
+            <Back>
                 <h4 style={{ color: "#007bff" }}> Background </h4>
                 <Content>
                     <Paragraph>

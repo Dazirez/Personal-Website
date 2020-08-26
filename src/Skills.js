@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import styled from "styled-components";
 
 const Flexbox = styled.div`
+    margin: 100px 0px;
     display: flex; 
-    margin-bottom: 400px;
     flex-direction: row;
     justify-content: center; 
     font-family: Apercu,"Source Sans Pro",system,system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;
@@ -17,8 +17,6 @@ const Col = styled.div`
 `;
 
 const Content = styled.div`
-    justify-content: space-around; 
-    margin-left: 100px; 
     display: flex; 
     max-width: 30%;
     flex-direction: row;
@@ -27,7 +25,6 @@ const Content = styled.div`
 
 const UList = styled.ul`
     list-style: none;
-    margin: 3px 0px; 
 `;
 const Item = styled.li`
     display: list-item;
@@ -41,9 +38,8 @@ const Section = styled.li`
 export class Skills extends Component {
     render() {
         return (
-            <Flexbox>
+            <Flexbox id="projects'">
                 <h4 style={{ color: '#007bff' }}> Skills </h4>
-                <Content>
                     <Col>
                         <UList style={{ listStyle: 'none' }}>
                             <Section>Languages</Section>
@@ -86,7 +82,6 @@ export class Skills extends Component {
                         </UList>
                     </Col>
 
-                </Content>
             </Flexbox>
         );
     }
