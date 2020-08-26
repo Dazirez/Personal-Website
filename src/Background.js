@@ -16,7 +16,7 @@ const Paragraph = styled.p`
 const Content = styled.div`
     padding-left: 100px;
     display: flex;
-    max-width: 30%;
+    max-width: 50%;
     flex-direction: column;
     justify-content: center;
 `;
