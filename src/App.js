@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "./Header";
 import Intro from "./Intro";
 import Stream from "./Stream";
 import Background from "./Background";
