@@ -8,7 +8,6 @@ class App extends React.Component {
     render() {
         return (
             <body>
-                <Header />
                 <Intro />
                 <Stream />
                 <Background />
