@@ -66,7 +66,7 @@ export class Intro extends Component {
                             music and experiencing new things. I play the guitar
                             and piano, and am seriously curious about anything
                             that comes my way. If you’d like to make something
-                            happen, feel free to get in touch with me 🙂
+                            happen, feel free to get in touch with me
                         </Description>
                         <Propic src={require("./assets/img/Propic.png")} />
                     </Flexbox>

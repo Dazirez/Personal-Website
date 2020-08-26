@@ -7,16 +7,16 @@ export class Header extends Component {
             <div class="header">
                 <ul>
                     <li>
-                        <a href="#home"></a>Home
+                        <a href="#"></a>Home
                     </li>
                     <li>
-                        <a href="#about"></a>About
+                        <a href="#"></a>About
                     </li>
                     <li>
-                        <a href="#contact"></a>Contact
+                        <a href="#"></a>Contact
                     </li>
                     <li>
-                        <a href="#stream"></a>Stream
+                        <a href="#"></a>Stream
                     </li>
                 </ul>
             </div>
