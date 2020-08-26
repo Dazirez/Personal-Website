@@ -6,7 +6,6 @@ const Introduction = styled.header`
     padding: 120px 100px;
     display: flex;
     justify-content: space-around;
-    height: 100vh;
     font-family: Apercu, "Source Sans Pro", system, system-ui, -apple-system,
         BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
 `;
