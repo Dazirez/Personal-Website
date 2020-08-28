@@ -2,18 +2,21 @@ import React, { Component } from "react";
 import styled from "styled-components";
 
 const Back = styled.div`
-    margin: 100px 0px; 
+    margin: 100px 0px;
     display: flex;
     flex-direction: row;
     justify-content: center;
     font-family: Apercu, "Source Sans Pro", system, system-ui, -apple-system,
         BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+    flex-wrap: wrap;
 `;
 const Paragraph = styled.p`
     margin-bottom: 25px;
+    min-width: 300px; 
 `;
 
 const Content = styled.div`
+    flex-basis: 25%; 
     padding-left: 100px;
     display: flex;
     max-width: 50%;
