@@ -2,9 +2,8 @@ import React from "react";
 import styled from "styled-components";
 const Wrapper = styled.section`
     display: flex;
-    margin-top: 1rem;
+    margin-top: 5rem;
     justify-content: space-around;
-
     padding: 1rem;
     background-color: black;
     bottom: 0;

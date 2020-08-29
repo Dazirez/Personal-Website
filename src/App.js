@@ -1,6 +1,7 @@
 import React from "react";
 import Intro from "./Intro";
 import Stream from "./Stream";
+import Projects from "./Projects";
 import Background from "./Background";
 import Skills from "./Skills";
 import Footer from "./Footer";
@@ -12,6 +13,7 @@ class App extends React.Component {
                 <Intro />
                 <Background />
                 <Skills />
+                <Projects />
                 <Footer />
             </body>
         );

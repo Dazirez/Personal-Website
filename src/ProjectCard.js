@@ -23,15 +23,15 @@ const primary = "#3f51b5";
 const ProjectCard = (props) => {
     const classes = useStyles();
 
-    const { name, link, imgSrc } = props;
+    const { title, link, imgSrc } = props;
     return (
-        <Link href={link}>
+        <div>
             <Card>
                 <CardActionArea className={classes.img}>
                     <CardMedia
                         style={{ height: "150px" }}
                         image={imgSrc}
-                        title={name}
+                        title={title}
                     />
                 </CardActionArea>
             </Card>
@@ -40,12 +40,12 @@ const ProjectCard = (props) => {
                 className={classes.button}
                 variant="contained"
                 color={primary}>
-                {name}
+                {title}
             </Button>
             <Button variant="contained" color="secondary">
-                Follow
+                <Link href={link}>Github</Link>
             </Button>
-        </Link>
+        </div>
     );
 };
 
