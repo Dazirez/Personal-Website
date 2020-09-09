@@ -5,12 +5,13 @@ import Projects from "./Projects";
 import Background from "./Background";
 import Skills from "./Skills";
 import Footer from "./Footer";
-import "./assets/css/style.css"
+import "./assets/css/style.css";
 class App extends React.Component {
     render() {
         return (
             <body>
                 <Intro />
+                <Stream />
                 <Background />
                 <Skills />
                 <Projects />
