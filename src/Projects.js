@@ -10,7 +10,7 @@ export class Projects extends Component {
     render() {
         return (
             <Proj>
-                <Grid container spacing={4}>
+                <Grid container spacing={4} justify={"center"}>
                     <Grid xs={0} sm={3} />
                     <Grid item xs={12} sm={1}>
                         <h4 style={{ color: "#007bff" }}> Projects </h4>
