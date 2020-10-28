@@ -31,7 +31,7 @@ export class Intro extends Component {
               <a href='#' type='button' class='cta'>
                 Blog
               </a>
-              <a href='#' type='button' class='cta'>
+              <a href='#' type='button' class='cta2'>
                 Music
               </a>
             </div>
