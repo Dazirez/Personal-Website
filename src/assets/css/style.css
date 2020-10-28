@@ -77,9 +77,9 @@ p {
   width: 120px;
   display: inline-block;
   padding: 10px 30px;
-  color: rgb(255, 174, 0);
+  color: #f50057;
   background-color: transparent;
-  border: 2px solid rgb(255, 174, 0);
+  border: 2px solid #f50057;
   font-size: 2rem;
   font-family: 'Indie Flower';
   border-radius: 25px;
@@ -91,7 +91,7 @@ p {
 }
 .cta2:hover {
   color: white;
-  background-color: rgb(255, 174, 0);
+  background-color: #f50057;
 }
 
 /* Hero Section */
@@ -226,7 +226,7 @@ p {
   width: 100%;
   height: 100vh;
   color: #fff;
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #26a3d5, #23a5db);
+  background: linear-gradient(-45deg, #ee765275, #e73c7e75, #26a3d560, #23a4db77);
   padding-top: 75px;
   background-size: 400%, 400%;
   position: relative;
