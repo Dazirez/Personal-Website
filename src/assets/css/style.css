@@ -51,9 +51,10 @@ p {
 }
 
 .cta {
+  width: 120px;
   display: inline-block;
   padding: 10px 30px;
-  color: white;
+  color: rgb(0, 123, 255);
   background-color: transparent;
   border: 2px solid rgb(0, 123, 255);
   font-size: 2rem;
@@ -82,6 +83,7 @@ p {
   top: 0;
   height: 100%;
   width: 100%;
+  opacity: 0.7;
   z-index: -1;
 }
 #hero .hero {
@@ -159,7 +161,7 @@ p {
 }
 @keyframes text_reveal_name {
   100% {
-    color: rgb(255, 174, 0);
+    color: rgb(0, 123, 255);
     font-weight: 500;
   }
 }
@@ -195,11 +197,10 @@ p {
   }
 }
 /* End  Media Query For Desktop */
-
 #Stream {
   width: 100%;
   height: 100vh;
-  background-color: rgb(255, 174, 0);
+  background-color: rgba(255, 174, 0, 0.726);
   display: flex;
   flex-direction: column;
   padding-top: 75px;
