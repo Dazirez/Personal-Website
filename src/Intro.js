@@ -34,7 +34,11 @@ export class Intro extends Component {
               <a href='#' type='button' class='cta'>
                 Blog
               </a>
-              <a href='#' type='button' class='cta2'>
+              <a
+                href='#'
+                style={{ marginLeft: '10px' }}
+                type='button'
+                class='cta2'>
                 Music
               </a>
             </div>
