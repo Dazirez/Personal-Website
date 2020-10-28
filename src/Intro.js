@@ -7,9 +7,12 @@ const Text = styled.body`
     BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.5;
 `;
-const Propic = styled.img`
-  margin-left: 400px;
-  height: 70%;
+const Pic = styled.img`
+  max-width: 50%;
+  height: auto;
+  bottom: 0;
+  margin-top: auto;
+  margin-left: auto;
 `;
 
 export class Intro extends Component {
@@ -35,7 +38,7 @@ export class Intro extends Component {
                 Music
               </a>
             </div>
-            <Propic src={require('./assets/img/thinking.jpg')} />
+            <Pic src={require('./assets/img/thinking.jpg')} />
           </div>
         </section>
       </Text>

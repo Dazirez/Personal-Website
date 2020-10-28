@@ -3,9 +3,9 @@ import { TwitchEmbed } from 'react-twitch-embed';
 import styled from 'styled-components';
 
 const Container = styled.div`
-  width: 60%;
-  margin: auto;
-  margin-top: 50px;
+  padding-left: 75px;
+  padding-right: 75px;
+  margin-top: 25px;
 `;
 export class Stream extends Component {
   render() {
@@ -14,7 +14,12 @@ export class Stream extends Component {
         <div id='Stream'>
           <h1 id='StreamHeader'>Hang Out With Me</h1>
           <Container>
-            <TwitchEmbed channel='loldreamer' withChat={true} />
+            <TwitchEmbed
+              width='auto'
+              height='80vh'
+              channel='loldreamer'
+              withChat={true}
+            />
           </Container>
         </div>
       </React.Fragment>
