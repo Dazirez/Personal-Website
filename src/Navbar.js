@@ -8,8 +8,7 @@ export class Navbar extends Component {
     render() {
         return (
             <nav>
-                <h1>Two Pitches Higher</h1>
-                
+                <h1>Two Pitches Higher</h1>       
             </nav>
         );
     }

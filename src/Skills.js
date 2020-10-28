@@ -51,6 +51,7 @@ export class Skills extends Component {
                         <Item>React</Item>
                         <Item>Flask</Item>
                         <Item>NodeJS</Item>
+                        <Item>Rest</Item>
                     </UList>
                 </Col>
                 <Col>

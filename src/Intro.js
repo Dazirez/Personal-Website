@@ -8,8 +8,7 @@ const Text = styled.body`
 `;
 const Propic = styled.img`
     margin-left: 400px;
-    width: 400px;
-    height: 400px;
+    height: 70%;
 `;
 
 export class Intro extends Component {
@@ -23,16 +22,13 @@ export class Intro extends Component {
                                 Hello, <span></span>
                             </h1>
                             <h1>
-                                My Name is <span></span>
+                                I'm <span></span>
                             </h1>
                             <h1>
                                 Daniel <span></span>
                             </h1>
-                            <a href="#" type="button" class="cta">
-                                About Me
-                            </a>
                         </div>
-                        <Propic src={require("./assets/img/Propic.png")} />
+                        <Propic src={require("./assets/img/thinking.jpg")} />
                     </div>
                 </section>
             </Text>
