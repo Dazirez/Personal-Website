@@ -31,7 +31,7 @@ export class Intro extends Component {
               <h1>
                 Daniel <span></span>
               </h1>
-              <a href='#' type='button' class='cta'>
+              <a href='https://twopitcheshigher.tumblr.com/' type='button' class='cta'>
                 Blog
               </a>
               <a
