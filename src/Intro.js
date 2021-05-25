@@ -10,8 +10,7 @@ const Text = styled.body`
 const Pic = styled.img`
   max-width: 50%;
   height: auto;
-  bottom: 0;
-  margin-top: auto;
+  top: 0;
   margin-left: auto;
 `;
 
@@ -42,7 +41,7 @@ export class Intro extends Component {
                 Music
               </a>
             </div>
-            <Pic src={require('./assets/img/thinking.jpg')} />
+            <Pic src={require('./assets/img/propic-2.jpeg')} />
           </div>
         </section>
       </Text>
