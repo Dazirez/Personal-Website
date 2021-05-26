@@ -34,7 +34,7 @@ export class Intro extends Component {
                 Blog
               </a>
               <a
-                href='#'
+                href='https://www.youtube.com/watch?v=DSpL8i6cxc4'
                 style={{ marginLeft: '10px' }}
                 type='button'
                 class='cta2'>
