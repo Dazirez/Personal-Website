@@ -51,13 +51,13 @@ export class Skills extends Component {
             <Section>Frameworks</Section>
             <Item>React</Item>
             <Item>Flask</Item>
-            <Item>NodeJS</Item>
             <Item>Rest</Item>
           </UList>
         </Col>
         <Col>
           <UList style={{ listStyle: 'none' }}>
             <Section>Tools</Section>
+            <Item>NodeJS</Item>
             <Item>Photoshop</Item>
             <Item>Git</Item>
             <Item>Final Cut Pro</Item>

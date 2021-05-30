@@ -30,16 +30,7 @@ export class Intro extends Component {
               <h1>
                 Daniel <span></span>
               </h1>
-              <a href='https://twopitcheshigher.tumblr.com/' type='button' class='cta'>
-                Blog
-              </a>
-              <a
-                href='https://www.youtube.com/watch?v=DSpL8i6cxc4'
-                style={{ marginLeft: '10px' }}
-                type='button'
-                class='cta2'>
-                Music
-              </a>
+             
             </div>
             <Pic src={require('./assets/img/propic-2.jpeg')} />
           </div>
