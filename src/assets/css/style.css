@@ -1,5 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
 @import 'https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 * {
   padding: 0;
   margin: 0;
@@ -7,14 +8,14 @@
 }
 html {
   font-size: 10px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: sans-serif;
   scroll-behavior: smooth;
 }
 a {
   text-decoration: none;
 }
 h1 {
-  font-family: 'Indie Flower';
+  font-family: sans-serif;
 }
 .container {
   height: 100vh;
@@ -61,7 +62,7 @@ p {
   background-color: transparent;
   border: 2px solid rgb(0, 123, 255);
   font-size: 2rem;
-  font-family: 'Indie Flower';
+  font-family: sans-serif;;
   border-radius: 25px;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
@@ -81,7 +82,7 @@ p {
   background-color: transparent;
   border: 2px solid #f50057;
   font-size: 2rem;
-  font-family: 'Indie Flower';
+  font-family: sans-serif;;
   border-radius: 25px;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
@@ -238,7 +239,7 @@ p {
   color: white;
   text-align: center;
   font-size: 25px;
-  font-family: 'Indie Flower';
+  font-family: sans-serif;;
 }
 
 #ProjectsSection {
