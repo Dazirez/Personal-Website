@@ -35,7 +35,7 @@ export class Background extends Component {
               Computer Science and Japanese.
             </Paragraph>
             <Paragraph>
-              As a design-oriented software engineer- my passion is for making a
+              As a detail-oriented software engineer- my passion is for making a
               great user experience work with novel technology. I have a keen
               eye for aesthetics, and am fascinated by good design. I'm
               hardworking and always excited about crazy ideas.
