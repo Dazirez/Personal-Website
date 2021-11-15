@@ -52,6 +52,7 @@ export class Skills extends Component {
             <Item>React</Item>
             <Item>Flask</Item>
             <Item>Rest</Item>
+            <Item>MongoDB</Item>
           </UList>
         </Col>
         <Col>
