@@ -31,10 +31,10 @@ export class Intro extends Component {
               <h1>
                 Daniel <span></span>
               </h1>
-              <SocialIcon network="github" url="https://github.com/Dazirez" style={{ marginTop: 25}}/>
-              <SocialIcon network="linkedin" url="https://www.linkedin.com/in/dbzheng/" style={{ marginLeft: 25, marginTop: 25}}/>
-              <SocialIcon network="youtube" url="https://www.youtube.com/channel/UCcCYKEueIGUsdsnWm1_ZY8g" style={{ marginLeft: 25, marginTop: 25}}/>
-              <SocialIcon network="twitch" url="https://www.twitch.tv/loldreamer/" style={{ marginLeft: 25, marginTop: 25}}/>
+              <SocialIcon network="github" target="_blank" url="https://github.com/Dazirez" style={{ marginTop: 25}}/>
+              <SocialIcon network="linkedin" target="_blank" url="https://www.linkedin.com/in/dbzheng/" style={{ marginLeft: 25, marginTop: 25}}/>
+              <SocialIcon network="youtube" target="_blank" url="https://www.youtube.com/channel/UCcCYKEueIGUsdsnWm1_ZY8g" style={{ marginLeft: 25, marginTop: 25}}/>
+              <SocialIcon network="twitch" target="_blank" url="https://www.twitch.tv/loldreamer/" style={{ marginLeft: 25, marginTop: 25}}/>
 
             </div>
             <Pic src={require('./assets/img/propic-2.jpeg')} />
