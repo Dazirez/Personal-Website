@@ -26,20 +26,13 @@ const ProjectCard = (props) => {
   const { title, link, imgSrc } = props;
   return (
     <div>
-      <Card>
+      <Card style={{width: '15vw'}}>
         <CardActionArea className={classes.img}>
           <CardMedia style={{ height: '150px' }} image={imgSrc} title={title} />
         </CardActionArea>
       </Card>
       <br></br>
-      <Button className={classes.button} variant='contained' color={primary}>
-        {title}
-      </Button>
-      <Button variant='contained' color='secondary'>
-        <Link href={link} target='none'>
-          Github
-        </Link>
-      </Button>
+   
     </div>
   );
 };
