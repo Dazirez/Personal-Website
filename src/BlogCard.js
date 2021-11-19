@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
+import {Link} from 'react-router-dom';
 
 const Container = styled.div`
   width: 30vw;
@@ -20,17 +21,12 @@ const Title = styled.h2`
   color: #000;
   text-decoration: none;
 `;
-const Link = styled.a`
-  text-decoration: none;
-  &:hover { 
-    color: #61dafb
-  }
-`;
+
 export class BlogCard extends Component {
   render() {
     return (
       <Container>
-        <Link href='/'>
+        <Link to='/'>
           <PreviewImage src={this.props.imgURL} />
           <Title>{this.props.title}</Title>
         </Link>
