@@ -8,7 +8,7 @@ export class Projects extends Component {
         <ProjectCard
           title='Outlaws'
           imgSrc={require('./assets/img/Outlaws.gif')}
-          link='https://github.com/Dazirez/yeehaw-frontend'
+          link='https://yeehaw-frontend.herokuapp.com/'
         />
         <ProjectCard
           title='Offhours'

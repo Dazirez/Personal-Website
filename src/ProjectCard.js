@@ -28,7 +28,9 @@ const ProjectCard = (props) => {
     <div>
       <Card style={{width: '15vw'}}>
         <CardActionArea className={classes.img}>
+          <a href={link} target='_blank'>
           <CardMedia style={{ height: '150px' }} image={imgSrc} title={title} />
+          </a>
         </CardActionArea>
       </Card>
       <br></br>
