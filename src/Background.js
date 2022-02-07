@@ -41,8 +41,7 @@ export class Background extends Component {
               hardworking and always excited about crazy ideas.
             </Paragraph>
             <Paragraph>
-              I've played for my Collegiate League of Legends team and won many
-              competitions. When I'm not playing tennis or music, I also enjoy
+              I've played for my Collegiate League of Legends team and have attended and won varying competitions. When I'm not playing tennis or music, I also enjoy
               exploring a variety of new subjects.
             </Paragraph>
           </Content>

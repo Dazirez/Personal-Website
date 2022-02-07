@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rupee
+  - wall
+  - heart
+  - westdoor
+  - eastdoor
+  - stalfos
+  - northdoor
+  - southdoor
+  - key
+  - locked_westdoor
+  - locked_eastdoor
+  - locked_northdoor
+  - arrow
+  - weapon_bomb
+  - collectable_bomb
+  - boomerang
+  - pushable_block
+  - special_locked_westdoor
+  - blademaster
+  - Link
+  - old_man_text
+  - bow
+  - bow_room_exit
+  - bow_room_entrance
+  - room_wall
+  - collectable_boomerang
+  - sword
+  - special_unlocked_westdoor
+  - room_before_old
+  - sword_dust
+  - bossfire
+  - aquamentus
+  - gel
+  - goriya
+  - keese
+  - wallmaster
+  - BigHeart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Damager
+  - Link
+  - Door
+  - RoomWall
+  - FlyingEnemy
+  - Wallmaster
+  - Grabbed
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

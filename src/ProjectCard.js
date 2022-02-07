@@ -8,6 +8,12 @@ import styled from 'styled-components';
 const Link = styled.a`
   text-decoration: none;
 `;
+
+const Title = styled.h1`
+  padding: 10px; 
+  padding-left: 20px; 
+  font-size: 20px; 
+`;
 const useStyles = makeStyles({
   img: {
     '&:hover': {
@@ -28,6 +34,7 @@ const ProjectCard = (props) => {
     <div>
       <Card style={{width: '15vw'}}>
         <CardActionArea className={classes.img}>
+          <Title> {title}</Title>
           <a href={link} target='_blank'>
           <CardMedia style={{ height: '150px' }} image={imgSrc} title={title} />
           </a>

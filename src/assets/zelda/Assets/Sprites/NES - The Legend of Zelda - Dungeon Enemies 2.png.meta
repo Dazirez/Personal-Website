@@ -1,0 +1,6096 @@
+fileFormatVersion: 2
+guid: 4c2991516649442068f567a293b94466
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8497487691101401694
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_0
+  - first:
+      213: -6275577303238858417
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_1
+  - first:
+      213: 8022860223710289277
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_2
+  - first:
+      213: 7009096713262439941
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_3
+  - first:
+      213: -1826796679476353311
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_4
+  - first:
+      213: 3863640383939116916
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_5
+  - first:
+      213: 3287425425436911371
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_6
+  - first:
+      213: 57488660791749184
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_7
+  - first:
+      213: 1738080663400799705
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_8
+  - first:
+      213: -5857239742983162950
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_9
+  - first:
+      213: -2947945227789495825
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_10
+  - first:
+      213: -4966444156517029627
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_11
+  - first:
+      213: 1000009013561932922
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_12
+  - first:
+      213: 9129356869409381660
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_13
+  - first:
+      213: 7822626746289319385
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_14
+  - first:
+      213: 4412059788924948590
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_15
+  - first:
+      213: -3629593259796923088
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_16
+  - first:
+      213: 9002465531072709924
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_17
+  - first:
+      213: 1442826800760368486
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_18
+  - first:
+      213: -8310879852356317967
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_19
+  - first:
+      213: 7778775808994231957
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_20
+  - first:
+      213: -1074401874456882394
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_21
+  - first:
+      213: -1548880597393775932
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_22
+  - first:
+      213: -7391401109126593744
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_23
+  - first:
+      213: -7095214751400842900
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_24
+  - first:
+      213: 4486464407063710655
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_25
+  - first:
+      213: -6377534087840744532
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_26
+  - first:
+      213: 1556372378197313403
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_27
+  - first:
+      213: 4460795383677779977
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_28
+  - first:
+      213: -3870309077610089073
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_29
+  - first:
+      213: -5499812024393413675
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_30
+  - first:
+      213: 6906066219887016456
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_31
+  - first:
+      213: 9000965911558700213
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_32
+  - first:
+      213: -8442495452274345857
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_33
+  - first:
+      213: 6537172381051831977
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_34
+  - first:
+      213: -415493107440845746
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_35
+  - first:
+      213: -4232967794945354786
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_36
+  - first:
+      213: 3752966921133778615
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_37
+  - first:
+      213: 6612727835498754676
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_38
+  - first:
+      213: -7060433551392668071
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_39
+  - first:
+      213: -4507510598448700666
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_40
+  - first:
+      213: 349122765225829537
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_41
+  - first:
+      213: 6716354225648323939
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_42
+  - first:
+      213: -7992603484834968323
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_43
+  - first:
+      213: -8085162877558116908
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_44
+  - first:
+      213: 8113293047291018718
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_45
+  - first:
+      213: -7875772045474715130
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_46
+  - first:
+      213: 4600045479624186112
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_47
+  - first:
+      213: -3692746622533257396
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_48
+  - first:
+      213: 1625540671325802522
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_49
+  - first:
+      213: -8959948723550899399
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_50
+  - first:
+      213: -2728105101244881212
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_51
+  - first:
+      213: 1631599415895194425
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_52
+  - first:
+      213: 7485433561779023050
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_53
+  - first:
+      213: -5221446406220771827
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_54
+  - first:
+      213: 6462234534529597573
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_55
+  - first:
+      213: -6275113486649023709
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_56
+  - first:
+      213: -3610107403594373206
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_57
+  - first:
+      213: 6131569755455764341
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_58
+  - first:
+      213: 8659872134964281427
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_59
+  - first:
+      213: 7505730458318957195
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_60
+  - first:
+      213: 2844147772826900771
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_61
+  - first:
+      213: -2095290179805259671
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_62
+  - first:
+      213: 4652830492956674614
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_63
+  - first:
+      213: 5994983886514290339
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_64
+  - first:
+      213: -884954376544189789
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_65
+  - first:
+      213: 5468951528312073359
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_66
+  - first:
+      213: -4500273913983632235
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_67
+  - first:
+      213: -3917308021181620006
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_68
+  - first:
+      213: 937554461848458176
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_69
+  - first:
+      213: 2469538068384799864
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_70
+  - first:
+      213: -6631960440014568886
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_71
+  - first:
+      213: -4923203791370598926
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_72
+  - first:
+      213: 5799673787552742092
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_73
+  - first:
+      213: -7881673337529318515
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_74
+  - first:
+      213: 6630443786754774611
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_75
+  - first:
+      213: -3652894100850501257
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_76
+  - first:
+      213: -7509896407535481864
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_77
+  - first:
+      213: 3297145025536979098
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_78
+  - first:
+      213: -1422078338703948541
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_79
+  - first:
+      213: -4461566466721971058
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_80
+  - first:
+      213: 5118562794901653968
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_81
+  - first:
+      213: -4969210133136373320
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_82
+  - first:
+      213: -5549466409708067191
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_83
+  - first:
+      213: 5668862066844935854
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_84
+  - first:
+      213: 4392134246195382127
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_85
+  - first:
+      213: 8456578153747653077
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_86
+  - first:
+      213: 2657862272476984606
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_87
+  - first:
+      213: 4457896620844033704
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_88
+  - first:
+      213: 6053329308363163775
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_89
+  - first:
+      213: 3094552197354065355
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_90
+  - first:
+      213: 4953789288036352538
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_91
+  - first:
+      213: -2928103705874169682
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_92
+  - first:
+      213: 8564936967698086359
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_93
+  - first:
+      213: 4426881932897402704
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_94
+  - first:
+      213: -8084765491781563543
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_95
+  - first:
+      213: -8738948830209100440
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_96
+  - first:
+      213: 6816898644255988391
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_97
+  - first:
+      213: 6224895799504653164
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_98
+  - first:
+      213: -1262903691781839060
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_99
+  - first:
+      213: -8175945554023908872
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_100
+  - first:
+      213: 3760771690346962188
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_101
+  - first:
+      213: 1335309471968031602
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_102
+  - first:
+      213: -1819313685301684074
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_103
+  - first:
+      213: 3547355936079094174
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_104
+  - first:
+      213: -6655871286345556365
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_105
+  - first:
+      213: 6900520038447082752
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_106
+  - first:
+      213: -4610258061464704296
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_107
+  - first:
+      213: 5777294355065161363
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_108
+  - first:
+      213: -832192648781560609
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_109
+  - first:
+      213: -2728433217299301955
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_110
+  - first:
+      213: -2346061884478382512
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_111
+  - first:
+      213: 4483220586599923968
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_112
+  - first:
+      213: -9082364974700476134
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_113
+  - first:
+      213: -205120437818076117
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_114
+  - first:
+      213: -8076377793857827910
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_115
+  - first:
+      213: -7786852625967121453
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_116
+  - first:
+      213: 1739407292686860873
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_117
+  - first:
+      213: 1179105679157961495
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_118
+  - first:
+      213: -6758186421348573343
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_119
+  - first:
+      213: -6615525214696821943
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_120
+  - first:
+      213: -4583705976701888581
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_121
+  - first:
+      213: -4591163538810887950
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_122
+  - first:
+      213: -7107433459543377108
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_123
+  - first:
+      213: -1154641333484940211
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_124
+  - first:
+      213: 7897780371462679252
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_125
+  - first:
+      213: 4605234331408901178
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_126
+  - first:
+      213: -4082884468189429622
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_127
+  - first:
+      213: 7560581316486444686
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_128
+  - first:
+      213: -7936566024714539297
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_129
+  - first:
+      213: 2676958526747040256
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_130
+  - first:
+      213: 6942358550495859498
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_131
+  - first:
+      213: -2637736973191291794
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_132
+  - first:
+      213: -75632812568637476
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_133
+  - first:
+      213: -8181964485551837191
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_134
+  - first:
+      213: -2936624444641863765
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_135
+  - first:
+      213: 5172250842017114163
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_136
+  - first:
+      213: 3979534288884084013
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_137
+  - first:
+      213: 1543651823382585170
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_138
+  - first:
+      213: 6342803228298824583
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_139
+  - first:
+      213: -5714386976854678209
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_140
+  - first:
+      213: 8195129312426591098
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_141
+  - first:
+      213: 4183115475569875396
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_142
+  - first:
+      213: -6702691553618245974
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_143
+  - first:
+      213: 4853673886123903176
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_144
+  - first:
+      213: 8868741788544949556
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_145
+  - first:
+      213: -4919372597105870696
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_146
+  - first:
+      213: 4738246661955799720
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_147
+  - first:
+      213: -3057975205651636607
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_148
+  - first:
+      213: 1456511129181304779
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_149
+  - first:
+      213: 3461838143833592288
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_150
+  - first:
+      213: -5070459047955839004
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_151
+  - first:
+      213: 4680277763681230511
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_152
+  - first:
+      213: 844444627284434991
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_153
+  - first:
+      213: -2403555847766022187
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_154
+  - first:
+      213: 3927089573355311318
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_155
+  - first:
+      213: -8276117468982367067
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_156
+  - first:
+      213: 6626352638297145905
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_157
+  - first:
+      213: 1842969750384829886
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_158
+  - first:
+      213: -824054017685254337
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_159
+  - first:
+      213: 4899638338979854584
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_160
+  - first:
+      213: 3192674204005910316
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_161
+  - first:
+      213: 6860294768818430641
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_162
+  - first:
+      213: 6483549703765692076
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_163
+  - first:
+      213: -3253204439912926299
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_164
+  - first:
+      213: 5816379633728627975
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_165
+  - first:
+      213: 4026353213754199414
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_166
+  - first:
+      213: -4493906160539878618
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_167
+  - first:
+      213: -8290246540014884131
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_168
+  - first:
+      213: 1084182880689484097
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_169
+  - first:
+      213: -6492167317104064567
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_170
+  - first:
+      213: 1494259212931794130
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_171
+  - first:
+      213: -1858626051146328782
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_172
+  - first:
+      213: 8409847072847303599
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_173
+  - first:
+      213: -5557789375184141974
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_174
+  - first:
+      213: 4473136329592520817
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_175
+  - first:
+      213: -1876603336535342846
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_176
+  - first:
+      213: 1648626689485884374
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_177
+  - first:
+      213: -1861393694566168305
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_178
+  - first:
+      213: 3309550851419815524
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_179
+  - first:
+      213: 4787438972841149041
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_180
+  - first:
+      213: -6193928677316111100
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_181
+  - first:
+      213: -132357544621986015
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_182
+  - first:
+      213: 5971910878904499195
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_183
+  - first:
+      213: -2797263427821624267
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_184
+  - first:
+      213: -795384739725940989
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_185
+  - first:
+      213: -3606424817765388504
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_186
+  - first:
+      213: -3457413388883190288
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_187
+  - first:
+      213: 8370601381728002308
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_188
+  - first:
+      213: 6797188065016430494
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_189
+  - first:
+      213: 6046695624673401644
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_190
+  - first:
+      213: 2172377780822278787
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_191
+  - first:
+      213: -5389105283440813717
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_192
+  - first:
+      213: -5129540822991918907
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_193
+  - first:
+      213: 4440871541946692607
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_194
+  - first:
+      213: 4016012694899624126
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_195
+  - first:
+      213: 145830331522176839
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_196
+  - first:
+      213: -1247914602288125446
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_197
+  - first:
+      213: 8535087911471979930
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_198
+  - first:
+      213: 2168369151062936432
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_199
+  - first:
+      213: 8999351305149653494
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_200
+  - first:
+      213: 2879741213617622329
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_201
+  - first:
+      213: 7200956280040237321
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_202
+  - first:
+      213: 1823425104146832596
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_203
+  - first:
+      213: -8204883075681705975
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_204
+  - first:
+      213: 5045351523508439136
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_205
+  - first:
+      213: -7988707661685356284
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_206
+  - first:
+      213: -3319325317623360400
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_207
+  - first:
+      213: 4735645913981625087
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_208
+  - first:
+      213: -8833007153286791983
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_209
+  - first:
+      213: 2642765916299061542
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_210
+  - first:
+      213: -4325949645996912774
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_211
+  - first:
+      213: 2467363486712635529
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_212
+  - first:
+      213: 2129542985840312825
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_213
+  - first:
+      213: 4085003454850247157
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_214
+  - first:
+      213: -2739552827896794572
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_215
+  - first:
+      213: 8055501537245570375
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_216
+  - first:
+      213: 7305565468559063176
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_217
+  - first:
+      213: -3693897849449130488
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_218
+  - first:
+      213: -8846669519691689546
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_219
+  - first:
+      213: 3755666860381454528
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_220
+  - first:
+      213: -8562662954313295027
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_221
+  - first:
+      213: 8942764858763616170
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_222
+  - first:
+      213: 2034124096984493454
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_223
+  - first:
+      213: 7646823026194596215
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_224
+  - first:
+      213: 805788299078076659
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_225
+  - first:
+      213: -494334083068922921
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_226
+  - first:
+      213: -4598496532783398191
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_227
+  - first:
+      213: 7059393544409848475
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_228
+  - first:
+      213: 7917621765159725029
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_229
+  - first:
+      213: -5278276578890405127
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_230
+  - first:
+      213: 7606979660707937928
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_231
+  - first:
+      213: -6807053233524514406
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_232
+  - first:
+      213: 1372327909155495990
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_233
+  - first:
+      213: 3669530532623644378
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_234
+  - first:
+      213: -2669113998970841344
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_235
+  - first:
+      213: 768729976147909571
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_236
+  - first:
+      213: 3005343659181757588
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_237
+  - first:
+      213: -1952827505862314596
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_238
+  - first:
+      213: -8916335378247901342
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_239
+  - first:
+      213: -3227508761675486828
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_240
+  - first:
+      213: 910500098397764108
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_241
+  - first:
+      213: 8098784020723860862
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_242
+  - first:
+      213: 768124344247201589
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_243
+  - first:
+      213: 2830575156328262184
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_244
+  - first:
+      213: -4902014323850691710
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_245
+  - first:
+      213: -6725395233754293577
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_246
+  - first:
+      213: 5521551145968170074
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_247
+  - first:
+      213: 2704132824529982561
+    second: NES - The Legend of Zelda - Dungeon Enemies 2_248
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e527a5f88042de570800000000000000
+      internalID: 8497487691101401694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 220
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a1ff21bba8e8a0800000000000000
+      internalID: -6275577303238858417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 220
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ddcd4dddce65f60800000000000000
+      internalID: 8022860223710289277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 220
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e9d5e2350554160800000000000000
+      internalID: 7009096713262439941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 220
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6e2fa491ae5a6e0800000000000000
+      internalID: -1826796679476353311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 220
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f7b8075786e9530800000000000000
+      internalID: 3863640383939116916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 220
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0721c4c1084f9d20800000000000000
+      internalID: 3287425425436911371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 220
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aea15e1ad3cc000800000000000000
+      internalID: 57488660791749184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 220
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dddaf49727ee1810800000000000000
+      internalID: 1738080663400799705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 219
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3303b9c77e6bea0800000000000000
+      internalID: -5857239742983162950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 220
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe19c482f6bc617d0800000000000000
+      internalID: -2947945227789495825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 220
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509ecfd5a55a31bb0800000000000000
+      internalID: -4966444156517029627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 220
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c3c8946eeb0ed00800000000000000
+      internalID: 1000009013561932922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 220
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d1bec04bdf1be70800000000000000
+      internalID: 9129356869409381660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 220
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd6b07649d8f8c60800000000000000
+      internalID: 7822626746289319385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 184
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6018ae7009ca3d30800000000000000
+      internalID: 4412059788924948590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 184
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03df6ae192811adc0800000000000000
+      internalID: -3629593259796923088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 184
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425894214be2fec70800000000000000
+      internalID: 9002465531072709924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 184
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d2cb3b453f50410800000000000000
+      internalID: 1442826800760368486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 184
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcc955aec2d9ac80800000000000000
+      internalID: -8310879852356317967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_20
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 184
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596c0827263c3fb60800000000000000
+      internalID: 7778775808994231957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 184
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623dbf60035f611f0800000000000000
+      internalID: -1074401874456882394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c269d09d45418ae0800000000000000
+      internalID: -1548880597393775932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033c4124ad77c6990800000000000000
+      internalID: -7391401109126593744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 184
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6924a196cbb88d90800000000000000
+      internalID: -7095214751400842900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 184
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb4770ab9f134e30800000000000000
+      internalID: 4486464407063710655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabbe4769827e77a0800000000000000
+      internalID: -6377534087840744532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 184
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b774ea49e68599510800000000000000
+      internalID: 1556372378197313403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90001d364cde7ed30800000000000000
+      internalID: 4460795383677779977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85b4125666e94ac0800000000000000
+      internalID: -3870309077610089073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbcb926a1ebca3b0800000000000000
+      internalID: -5499812024393413675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ab0b713a647df50800000000000000
+      internalID: 6906066219887016456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 184
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc3bd1becad9ec70800000000000000
+      internalID: 9000965911558700213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78365dcd1b36da80800000000000000
+      internalID: -8442495452274345857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_34
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6c61825a3b8ba50800000000000000
+      internalID: 6537172381051831977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_35
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c7d5c583fdb3af0800000000000000
+      internalID: -415493107440845746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed31d9cb73a7145c0800000000000000
+      internalID: -4232967794945354786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_37
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b668fbd787351430800000000000000
+      internalID: 3752966921133778615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472bd3f3ee025cb50800000000000000
+      internalID: 6612727835498754676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9568df0c71d440e90800000000000000
+      internalID: -7060433551392668071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_40
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60328261efa1271c0800000000000000
+      internalID: -4507510598448700666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_41
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4a9442e4558d400800000000000000
+      internalID: 349122765225829537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_42
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d467d5598453d50800000000000000
+      internalID: 6716354225648323939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_43
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcccd72a71941190800000000000000
+      internalID: -7992603484834968323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd29fb233bbbcf80800000000000000
+      internalID: -8085162877558116908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd7d6a5a05389070800000000000000
+      internalID: 8113293047291018718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a27816d03a3b290800000000000000
+      internalID: -7875772045474715130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_47
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00914abddf4a6df30800000000000000
+      internalID: 4600045479624186112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47b166038ab0ccc0800000000000000
+      internalID: -3692746622533257396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10135ac0a41f8610800000000000000
+      internalID: 1625540671325802522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b8079b1ed7a380800000000000000
+      internalID: -8959948723550899399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c62e525dd2d32ad0800000000000000
+      internalID: -2728105101244881212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bfa20360b94a610800000000000000
+      internalID: 1631599415895194425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 172
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc20a73a2a91e760800000000000000
+      internalID: 7485433561779023050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_54
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e887f6822b987b0800000000000000
+      internalID: -5221446406220771827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58006ed12187ea950800000000000000
+      internalID: 6462234534529597573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323a507e7815ae8a0800000000000000
+      internalID: -6275113486649023709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_57
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7efbf817256edc0800000000000000
+      internalID: -3610107403594373206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_58
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5773875c436b71550800000000000000
+      internalID: 6131569755455764341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_59
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35089d423db0e2870800000000000000
+      internalID: 8659872134964281427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_60
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a6ee3b516b92860800000000000000
+      internalID: 7505730458318957195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 172
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329d0189451787720800000000000000
+      internalID: 2844147772826900771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 172
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968d75bcea80ce2e0800000000000000
+      internalID: -2095290179805259671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_63
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac9cc7eac229040800000000000000
+      internalID: 4652830492956674614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeffddf416723350800000000000000
+      internalID: 5994983886514290339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_65
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 172
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a208a7eea208b3f0800000000000000
+      internalID: -884954376544189789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_66
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ceed2707e95eb40800000000000000
+      internalID: 5468951528312073359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c7c0df7b0db81c0800000000000000
+      internalID: -4500273913983632235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_68
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 171
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad06ea90c1de2a9c0800000000000000
+      internalID: -3917308021181620006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_69
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c35f00d0dcd20d00800000000000000
+      internalID: 937554461848458176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_70
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c516df9cf854220800000000000000
+      internalID: 2469538068384799864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 172
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a420d701e1b86f3a0800000000000000
+      internalID: -6631960440014568886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_72
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5cf7a6c344dabb0800000000000000
+      internalID: -4923203791370598926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_73
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccab930f4949c7050800000000000000
+      internalID: 5799673787552742092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83c5e0cbdbae9290800000000000000
+      internalID: -7881673337529318515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_75
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 172
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356d6b49e71140c50800000000000000
+      internalID: 6630443786754774611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_76
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7799fac4b205e4dc0800000000000000
+      internalID: -3652894100850501257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_77
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb8dd8a10d77c790800000000000000
+      internalID: -7509896407535481864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_78
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90f3148eefc1cd20800000000000000
+      internalID: 3297145025536979098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_79
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 172
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30506c21943c34ce0800000000000000
+      internalID: -1422078338703948541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 172
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840e39dfe45512c0800000000000000
+      internalID: -4461566466721971058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_81
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9c4ae1eb9c80740800000000000000
+      internalID: 5118562794901653968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_82
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 172
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9822046b1d90bb0800000000000000
+      internalID: -4969210133136373320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_83
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 172
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9866364e3b55cf2b0800000000000000
+      internalID: -5549466409708067191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_84
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 172
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6aafec308dbae40800000000000000
+      internalID: 5668862066844935854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67cd4e83def3fc30800000000000000
+      internalID: 4392134246195382127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_86
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d12575a60dcb5570800000000000000
+      internalID: 8456578153747653077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_87
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1537e4a7af92e420800000000000000
+      internalID: 2657862272476984606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_88
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6a2d29b51addd30800000000000000
+      internalID: 4457896620844033704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78827d1feeb10450800000000000000
+      internalID: 6053329308363163775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_90
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd813ee3de02fa20800000000000000
+      internalID: 3094552197354065355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_91
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12ca857c156fb440800000000000000
+      internalID: 4953789288036352538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_92
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea08dd971394d57d0800000000000000
+      internalID: -2928103705874169682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_93
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9714b0bc4ccd670800000000000000
+      internalID: 8564936967698086359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_94
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fb1f0d9a17f6d30800000000000000
+      internalID: 4426881932897402704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_95
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0602ce942dcf80800000000000000
+      internalID: -8084765491781563543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_96
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8653211075409b680800000000000000
+      internalID: -8738948830209100440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_97
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa58b0133d7a9e50800000000000000
+      internalID: 6816898644255988391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bcb4dafb5436650800000000000000
+      internalID: 6224895799504653164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_99
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2760d198c3497ee0800000000000000
+      internalID: -1262903691781839060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_100
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9787d26d4398e80800000000000000
+      internalID: -8175945554023908872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_101
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dd97c4de1f03430800000000000000
+      internalID: 3760771690346962188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_102
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737ed5d3e8f78210800000000000000
+      internalID: 1335309471968031602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_103
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6981694a7df70c6e0800000000000000
+      internalID: -1819313685301684074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_104
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e912edddd6dba3130800000000000000
+      internalID: 3547355936079094174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e96a2545891a3a0800000000000000
+      internalID: -6655871286345556365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 141
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d6a191a6293cf50800000000000000
+      internalID: 6900520038447082752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_107
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dae38328b21500c0800000000000000
+      internalID: -4610258061464704296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_108
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39647844b921d2050800000000000000
+      internalID: 5777294355065161363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_109
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd40fa0f1357374f0800000000000000
+      internalID: -832192648781560609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_110
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9bf79d178a22ad0800000000000000
+      internalID: -2728433217299301955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_111
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e1592652d117fd0800000000000000
+      internalID: -2346061884478382512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_112
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 141
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c102de59973e30800000000000000
+      internalID: 4483220586599923968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_113
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19478a0d25f4f180800000000000000
+      internalID: -9082364974700476134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_114
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b245eaf6c04472df0800000000000000
+      internalID: -205120437818076117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_115
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb404ddf21faef80800000000000000
+      internalID: -8076377793857827910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_116
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 141
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db79ee0bca8fe390800000000000000
+      internalID: -7786852625967121453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_117
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942035887bd932810800000000000000
+      internalID: 1739407292686860873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_118
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7132bd63e560d5010800000000000000
+      internalID: 1179105679157961495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_119
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 141
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f56a591491632a0800000000000000
+      internalID: -6758186421348573343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_120
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b2b572edee034a0800000000000000
+      internalID: -6615525214696821943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_121
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb759df13b76360c0800000000000000
+      internalID: -4583705976701888581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_122
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 141
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a3732619e840c0800000000000000
+      internalID: -4591163538810887950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 141
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bf033ece25d5d90800000000000000
+      internalID: -7107433459543377108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_124
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4495a223d3e9ffe0800000000000000
+      internalID: -1154641333484940211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_125
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 141
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dae513576d8a9d60800000000000000
+      internalID: 7897780371462679252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34af0f893419ef30800000000000000
+      internalID: 4605234331408901178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_127
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800c9e453ea657c0800000000000000
+      internalID: -4082884468189429622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_128
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 141
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8631a056a49ce860800000000000000
+      internalID: 7560581316486444686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_129
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdea4701047abd190800000000000000
+      internalID: -7936566024714539297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_130
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad531d897762520800000000000000
+      internalID: 2676958526747040256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_131
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 141
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2393b9c156385060800000000000000
+      internalID: 6942358550495859498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_132
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cd40eb230e46bd0800000000000000
+      internalID: -2637736973191291794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_133
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf8b719b5c43fef0800000000000000
+      internalID: -75632812568637476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_134
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 141
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff22d976a2d37e80800000000000000
+      internalID: -8181964485551837191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_135
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7946260a30f37d0800000000000000
+      internalID: -2936624444641863765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_136
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33825afacb687c740800000000000000
+      internalID: 5172250842017114163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d2c6ce9552a3730800000000000000
+      internalID: 3979534288884084013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_138
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 105
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f5a9d97272c6510800000000000000
+      internalID: 1543651823382585170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_139
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 105
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bc3f63ee9260850800000000000000
+      internalID: 6342803228298824583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_140
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 105
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f356577125b62b0b0800000000000000
+      internalID: -5714386976854678209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_141
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a730493a0b2fab170800000000000000
+      internalID: 8195129312426591098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_142
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c918c7ac596d0a30800000000000000
+      internalID: 4183115475569875396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_143
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6c29b5b814bf2a0800000000000000
+      internalID: -6702691553618245974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_144
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 105
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8410efea6bb5340800000000000000
+      internalID: 4853673886123903176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 105
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d52e60ba9141b70800000000000000
+      internalID: 8868741788544949556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_146
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898b6b7dfa0eabbb0800000000000000
+      internalID: -4919372597105870696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_147
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa4e081c32a1c140800000000000000
+      internalID: 4738246661955799720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_148
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e9e2790c3ef85d0800000000000000
+      internalID: -3057975205651636607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_149
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc73142b721963410800000000000000
+      internalID: 1456511129181304779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_150
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e15911437bea0030800000000000000
+      internalID: 3461838143833592288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_151
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74d6e3c5c12a9b0800000000000000
+      internalID: -5070459047955839004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_152
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 105
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae116234dfa3f040800000000000000
+      internalID: 4680277763681230511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_153
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 105
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20a6c91ae118bb00800000000000000
+      internalID: 844444627284434991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_154
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 105
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7e718e0bad4aed0800000000000000
+      internalID: -2403555847766022187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_155
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 105
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0dbfc0923df7630800000000000000
+      internalID: 3927089573355311318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_156
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aca6edb203552d80800000000000000
+      internalID: -8276117468982367067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_157
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1328c2add9885fb50800000000000000
+      internalID: 6626352638297145905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_158
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb56a77393b839910800000000000000
+      internalID: 1842969750384829886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_159
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f0328ac3f5094f0800000000000000
+      internalID: -824054017685254337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_160
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f877c22c130ff340800000000000000
+      internalID: 4899638338979854584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_161
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c274355e548ae4c20800000000000000
+      internalID: 3192674204005910316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_162
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2a4edaeb9a43f50800000000000000
+      internalID: 6860294768818430641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_163
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae0b80ba123af950800000000000000
+      internalID: 6483549703765692076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_164
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a334415ccb4ad2d0800000000000000
+      internalID: -3253204439912926299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705263bd57ee7b050800000000000000
+      internalID: 5816379633728627975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_166
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d42165aea70e730800000000000000
+      internalID: 4026353213754199414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_167
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bb41f182072a1c0800000000000000
+      internalID: -4493906160539878618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_168
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 93
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda600a02b023fc80800000000000000
+      internalID: -8290246540014884131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_169
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1417e03f59acb0f00800000000000000
+      internalID: 1084182880689484097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_170
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 93
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c78c99d83037e5a0800000000000000
+      internalID: -6492167317104064567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_171
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4872556dcacb410800000000000000
+      internalID: 1494259212931794130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_172
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235d2233475d436e0800000000000000
+      internalID: -1858626051146328782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_173
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa31c600b57c5b470800000000000000
+      internalID: 8409847072847303599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_174
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6185bb7204ced2b0800000000000000
+      internalID: -5557789375184141974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_175
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 93
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170c145cac5c31e30800000000000000
+      internalID: 4473136329592520817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_176
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 93
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2018f754537f4f5e0800000000000000
+      internalID: -1876603336535342846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_177
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 93
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbc8024d3911e610800000000000000
+      internalID: 1648626689485884374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_178
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 92
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f094b300c400b26e0800000000000000
+      internalID: -1861393694566168305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_179
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e38f0f6f2eded20800000000000000
+      internalID: 3309550851419815524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_180
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172ce008166607240800000000000000
+      internalID: 4787438972841149041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_181
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 93
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405d7705faeba0aa0800000000000000
+      internalID: -6193928677316111100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_182
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fa671b385c92ef0800000000000000
+      internalID: -132357544621986015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_183
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 93
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbb467cd4d70e250800000000000000
+      internalID: 5971910878904499195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_184
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5342081abbf1e29d0800000000000000
+      internalID: -2797263427821624267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_185
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3076ed81bc936f4f0800000000000000
+      internalID: -795384739725940989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_186
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 93
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fe0f36cb763fdc0800000000000000
+      internalID: -3606424817765388504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_187
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 93
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd10f947dcc400d0800000000000000
+      internalID: -3457413388883190288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_188
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401aa4a7b995a2470800000000000000
+      internalID: 8370601381728002308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_189
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 93
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f34d63886745e50800000000000000
+      internalID: 6797188065016430494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_190
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 93
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b119542ad2ae350800000000000000
+      internalID: 6046695624673401644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_191
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820dd7f416d52e10800000000000000
+      internalID: 2172377780822278787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_192
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 93
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6954532c4d0635b0800000000000000
+      internalID: -5389105283440813717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_193
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8a3b88cc530d8b0800000000000000
+      internalID: -5129540822991918907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_194
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3bfde732521ad30800000000000000
+      internalID: 4440871541946692607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_195
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb883fca44ebbb730800000000000000
+      internalID: 4016012694899624126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_196
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7475bd3f9e7160200800000000000000
+      internalID: 145830331522176839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_197
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9e79ce7448eaee0800000000000000
+      internalID: -1247914602288125446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_198
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d94021c39b27670800000000000000
+      internalID: 8535087911471979930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_199
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b850f1148971e10800000000000000
+      internalID: 2168369151062936432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_200
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 93
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1a468d45e14ec70800000000000000
+      internalID: 8999351305149653494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_201
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 93
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d0bb25065e6f720800000000000000
+      internalID: 2879741213617622329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_202
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 93
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909aaea959feee360800000000000000
+      internalID: 7200956280040237321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_203
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 92
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc9337a87b1e4910800000000000000
+      internalID: 1823425104146832596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_204
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a0626056622e80800000000000000
+      internalID: -8204883075681705975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_205
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06842bdaa70b40640800000000000000
+      internalID: 5045351523508439136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_206
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4098dca25b8622190800000000000000
+      internalID: -7988707661685356284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_207
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074591dc5336fe1d0800000000000000
+      internalID: -3319325317623360400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_208
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a7e44ed468b140800000000000000
+      internalID: 4735645913981625087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_209
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc3bd91bcada6580800000000000000
+      internalID: -8833007153286791983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_210
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629e381599dfca420800000000000000
+      internalID: 2642765916299061542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_211
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 49
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f802287b327f3c0800000000000000
+      internalID: -4325949645996912774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_212
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980a64db406dd3220800000000000000
+      internalID: 2467363486712635529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_213
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1cfe41018ad8d10800000000000000
+      internalID: 2129542985840312825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_214
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9a798bff8d0b830800000000000000
+      internalID: 4085003454850247157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_215
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 49
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327bc1c7372bf9d0800000000000000
+      internalID: -2739552827896794572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_216
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745a22fd7f3eacf60800000000000000
+      internalID: 8055501537245570375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_217
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b2dc4615926560800000000000000
+      internalID: 7305565468559063176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_218
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806510f1a73acbcc0800000000000000
+      internalID: -3693897849449130488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_219
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1508981f05a3580800000000000000
+      internalID: -8846669519691689546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_220
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 49
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c04eb37c1fce1430800000000000000
+      internalID: 3755666860381454528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_221
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b52c4f86f4b2980800000000000000
+      internalID: -8562662954313295027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_222
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf937c12451b1c70800000000000000
+      internalID: 8942764858763616170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_223
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8da2d5c619aa3c10800000000000000
+      internalID: 2034124096984493454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_224
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7714b981709fe1a60800000000000000
+      internalID: 7646823026194596215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_225
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 49
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f807b2503cbe2b00800000000000000
+      internalID: 805788299078076659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_226
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 49
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3fe4245c5c329f0800000000000000
+      internalID: -494334083068922921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_227
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2849e64cbde20c0800000000000000
+      internalID: -4598496532783398191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_228
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a1c30c60108f160800000000000000
+      internalID: 7059393544409848475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_229
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 62
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72f3acb0b01ed60800000000000000
+      internalID: 7917621765159725029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_230
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa29f0ca6bcfb6b0800000000000000
+      internalID: -5278276578890405127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_231
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 62
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e3e1aa2bb619960800000000000000
+      internalID: 7606979660707937928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_232
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91e890462d7881a0800000000000000
+      internalID: -6807053233524514406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_233
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630619466fc7b0310800000000000000
+      internalID: 1372327909155495990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_234
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad67b71d39acce230800000000000000
+      internalID: 3669530532623644378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_235
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 62
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071252a5f665fad0800000000000000
+      internalID: -2669113998970841344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_236
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb9d7427d31baa00800000000000000
+      internalID: 768729976147909571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_237
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 62
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4945081922025b920800000000000000
+      internalID: 3005343659181757588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_238
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95f67ddab926e4e0800000000000000
+      internalID: -1952827505862314596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_239
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f1949d630d24480800000000000000
+      internalID: -8916335378247901342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_240
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 37
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4992fde91e59533d0800000000000000
+      internalID: -3227508761675486828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_241
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0af4f4f30fb2ac00800000000000000
+      internalID: 910500098397764108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_242
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 37
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750bdb5829a46070800000000000000
+      internalID: 8098784020723860862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_243
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f2f2a750de8aa00800000000000000
+      internalID: 768124344247201589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_244
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 101
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aedfe8b19384720800000000000000
+      internalID: 2830575156328262184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_245
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bb007c1fb88fbb0800000000000000
+      internalID: -4902014323850691710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_246
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba58f5eaa89aa2a0800000000000000
+      internalID: -6725395233754293577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_247
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a547598438d70ac40800000000000000
+      internalID: 5521551145968170074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Dungeon Enemies 2_248
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 180
+        width: 11
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164559f0a72078520800000000000000
+      internalID: 2704132824529982561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1255990bf8607491bb402b613c336576
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

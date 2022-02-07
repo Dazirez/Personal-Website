@@ -1,0 +1,24 @@
+Pitch: Link travels to the eastmost peninsula and finds that the final enemy is the old man himself. The dungeon was created by him 
+and he possesses a combination of all the attacks from the varying enemies. Link engages in a fight with the old man who goes through
+several phases of powering himself up with more varied movements and unique attack combinations. The levels increase in complexity and 
+obstacles. The first level is an open room. The second one contains a lot of walls blocking Link's movements but not the old man's. 
+The third is a combination of fire obstacles and static blademasters. The old man is able to summon monsters to his aid. 
+
+New Mechanic Pitch: The old man can embody enemy attacks and summon them to his aid. His first phase allows him to move
+like the stalfos and throw boomerangs like the goriya and attack like the aquamentus. In his second phase, his movements become more sporadic and he is able to 
+fly through obstacles like keese. In his third phase, the old man summons various monsters as he gets more damaged 
+and becomes increasingly powerful.
+
+This new level tests the player's knowledge and skills gained from dealing with previous enemies. All of the attacks have been 
+experienced before so there shouldn't be anything new in terms of that. However, the attacks combined create unique damage sequences
+that the player must be prepared for. 
+
+This new level engages the player's creative problem solving skills. The old man can summon a unique combination of monsters
+that the user must handle. He also becomes increasingly sporadic in his movement, testing the players
+reaction speeds. The player must utilize his or her understanding of these mechanics to dodge and fight back. 
+
+The old man's skills begin with very easy movements and attacks. The player should quickly realize that he is using attacks
+from the monsters in the dungeon. In each successive phase the player discovers the old man gains new skills, that are "stronger" but are all familiar,
+this provides a very linear progression and understanding of the battle mechanics. 
+
+Daniel Zheng Portfolio: Danielbzheng.com

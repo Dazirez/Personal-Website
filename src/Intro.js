@@ -56,6 +56,13 @@ export class Intro extends Component {
                 url='https://www.twitch.tv/loldreamer/'
                 style={{ marginLeft: 25, marginTop: 25 }}
               />
+              <SocialIcon
+                network='stackoverflow'
+                target='_blank'
+                url={require('./assets/Resume.pdf')}
+                style={{ marginLeft: 25, marginTop: 25 }}
+              />
+              
             </div>
             <Pic src={require('./assets/img/propic-2.jpeg')} />
           </div>
