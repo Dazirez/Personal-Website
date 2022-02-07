@@ -29,7 +29,7 @@ export class Projects extends Component {
         <ProjectCard
           title='Zelda NES Clone'
           imgSrc={require('./assets/img/link.gif')}
-          link={require('./assets/zelda.zip')}
+          link='http://www-personal.umich.edu/~dbzheng/WebBuild/'
         />
       </div>
     );
