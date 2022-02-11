@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ProjectCard from './ProjectCard';
+import styled from 'styled-components'; 
 
 export class Projects extends Component {
   render() {
@@ -19,7 +20,7 @@ export class Projects extends Component {
         <ProjectCard
           title='Mentii'
           imgSrc={require('./assets/img/Mentii.png')}
-          link='https://devpost.com/software/mentiig'
+          link='https://devpost.com/software/mentii'
         />
         <ProjectCard
           title='IG Clone'
