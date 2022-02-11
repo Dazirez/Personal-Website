@@ -19,7 +19,7 @@ export class Projects extends Component {
         <ProjectCard
           title='Mentii'
           imgSrc={require('./assets/img/Mentii.png')}
-          link='https://github.com/Dazirez/mentii-2'
+          link='https://devpost.com/software/mentiig'
         />
         <ProjectCard
           title='IG Clone'
