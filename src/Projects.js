@@ -23,14 +23,14 @@ export class Projects extends Component {
           link='https://devpost.com/software/mentii'
         />
         <ProjectCard
-          title='IG Clone'
-          imgSrc={require('./assets/img/instagram.png')}
-          link='https://github.com/Dazirez/mentii-2'
+          title='CloudFront'
+          imgSrc={require('./assets/img/CloudFront.png')}
+          link='http://www-personal.umich.edu/~dbzheng/WebBuild/'
         />
         <ProjectCard
           title='Zelda NES Clone'
           imgSrc={require('./assets/img/link.gif')}
-          link='http://www-personal.umich.edu/~dbzheng/WebBuild/'
+          link={require('./assets/zelda.zip')}
         />
       </div>
     );
