@@ -47,7 +47,7 @@ export class Intro extends Component {
               <SocialIcon
                 network='youtube'
                 target='_blank'
-                url='https://www.youtube.com/channel/UCcCYKEueIGUsdsnWm1_ZY8g'
+                url='https://www.youtube.com/channel/UCj2uPujdZrxbui61eLEIgDQ/videos'
                 style={{ marginLeft: 25, marginTop: 25 }}
               />
               <SocialIcon
