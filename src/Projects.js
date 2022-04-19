@@ -18,8 +18,8 @@ export class Projects extends Component {
           subheader='Teaching and Streaming Service for Students'
         />
         <ProjectCard
-          title='Mentii'
-          imgSrc={require('./assets/img/Mentii.png')}
+          title='Penguin Passing'
+          imgSrc={require('./assets/img/penguin.gif')}
           link='https://devpost.com/software/mentii'
         />
         <ProjectCard
