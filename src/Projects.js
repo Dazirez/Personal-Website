@@ -20,7 +20,7 @@ export class Projects extends Component {
         <ProjectCard
           title='Penguin Passing'
           imgSrc={require('./assets/img/penguin.gif')}
-          link='https://devpost.com/software/mentii'
+          link='https://penguinpassing.itch.io/penguin-passing'
         />
         <ProjectCard
           title='CloudFront'
