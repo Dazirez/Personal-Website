@@ -40,10 +40,10 @@ export class Skills extends Component {
             <Section>Languages</Section>
             <Item>JavaScript (ES6)</Item>
             <Item>C++</Item>
+            <Item>C#</Item>
             <Item>Python</Item>
             <Item>SQL</Item>
-            <Item>HTML</Item>
-            <Item>CSS</Item>
+            <Item>HTML/CSS</Item>
           </UList>
         </Col>
         <Col>
@@ -53,17 +53,19 @@ export class Skills extends Component {
             <Item>Flask</Item>
             <Item>Rest</Item>
             <Item>MongoDB</Item>
+            <Item>NodeJS</Item>
+
           </UList>
         </Col>
         <Col>
           <UList style={{ listStyle: 'none' }}>
             <Section>Tools</Section>
-            <Item>NodeJS</Item>
-            <Item>Photoshop</Item>
+            <Item>Unity</Item>
+            <Item>VS Code</Item>
+            <Item>Android Studio</Item>
             <Item>Git</Item>
-            <Item>Final Cut Pro</Item>
-            <Item>Piskel</Item>
-            <Item>Clip Studio Paint</Item>
+            <Item>DaVinci Resolve</Item>
+            <Item>Photoshop/Lightroom</Item>
           </UList>
         </Col>
         <Col>

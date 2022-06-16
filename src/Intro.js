@@ -64,7 +64,7 @@ export class Intro extends Component {
               />
               
             </div>
-            <Pic src={require('./assets/img/propic-2.jpeg')} />
+            <Pic src={require('./assets/img/grad.jpg')} />
           </div>
         </section>
       </Text>
